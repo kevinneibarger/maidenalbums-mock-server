@@ -1,0 +1,249 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Iron Maiden (Self Titled)",
+      "overview": "Release Date: 1980 EMI Records",
+      "long_description": "Iron Maiden is the debut studio album by English heavy metal band Iron Maiden, released on 14 April 1980 by EMI Records in the UK and Harvest and Capitol Records in the US. The North American version included the song \"Sanctuary\", released in the UK as a non-album single. In 1998, along with the rest of the band's pre-1995 releases, Iron Maiden was remastered with \"Sanctuary\" added in all territories. However, 2014 vinyl reissues, 2015 digital releases and 2018 CD reissues use the original track listing across the globe. It is the band's only album to feature guitarist Dennis Stratton.",
+      "price": 45,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/7c/Iron_Maiden_%28album%29_cover.jpg",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10002,
+      "name": "Killers",
+      "overview": "Release Date: 1981 EMI Records ",
+      "long_description": "The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the US by Harvest and Capitol Records, and on 29 March 1982 in the UK by EMI Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.",
+      "price": 35,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Iron_Maiden_Killers.jpg",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Number of the Beast",
+      "overview": "Release Date: 1982 - Capitol Records",
+      "long_description": "The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the US by Harvest and Capitol Records, and on 29 March 1982 in the UK by EMI Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.",
+      "price": 45,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/IronMaiden_NumberOfBeast.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10004,
+      "name": "Piece of Mind",
+      "overview": "Released 1983 - EMI Records",
+      "long_description": "Piece of Mind is the fourth studio album by English heavy metal band Iron Maiden. It was released on 16 May 1983 in the United Kingdom by EMI Records and in the United States by Capitol Records. It was the first album to feature drummer Nicko McBrain, who had recently left the band Trust and has been Iron Maiden's drummer ever since.",
+      "price": 45,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Iron_Maiden_-_Piece_Of_Mind.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Powerslave",
+      "overview": "Released 1984 - EMI Records",
+      "long_description": "Powerslave is the fifth studio album by the English heavy metal band Iron Maiden, released on 3 September 1984 through EMI Records in Europe and its sister label Capitol Records in North America. It was re-released by Sanctuary and Columbia Records in the United States in 2002.",
+      "price": 59,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Iron_Maiden_-_Powerslave.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Somewhere In Time",
+      "overview": "Released 1986 - EMI Records",
+      "long_description": "Somewhere in Time is the sixth studio album by English heavy metal band Iron Maiden. It was released on 29 September 1986 in the United Kingdom by EMI Records and in the United States by Capitol Records. It was the band's first album to feature guitar synthesisers",
+      "price": 29,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/9b/Iron_Maiden_-_Somewhere_in_Time.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10007,
+      "name": "Seventh Son of a Seventh Son",
+      "overview": "Released 1988 - Capitol Records",
+      "long_description": "Seventh Son of a Seventh Son is the seventh studio album by English heavy metal band Iron Maiden. It was released on 11 April 1988 in the United Kingdom by EMI Records and in the United States by Capitol Records.",
+      "price": 39,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c0/Iron_Maiden_-_Seventh_Son_Of_A_Seventh_Son.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10008,
+      "name": "No Prayer for the Dying",
+      "overview": "Released 1990 - EMI Records ",
+      "long_description": "No Prayer for the Dying is the eighth studio album by English heavy metal band Iron Maiden. It is their first album to feature Janick Gers on guitar, who replaced Adrian Smith. Smith left the band during the pre-production phase, unhappy with the musical direction it was taking,[1] and only having contributed to one song, \"Hooks in You\". This was the third song in the \"Charlotte the Harlot\" saga",
+      "price": 47,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/5c/IronMaidenNoPrayerForTheDying.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 1,
+      "in_stock": false,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Fear of the Dark",
+      "overview": "Release 1992 - EMI Records",
+      "long_description": "Fear of the Dark is the ninth studio album by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.",
+      "price": 55,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Iron_Maiden_-_Fear_Of_The_Dark.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10010,
+      "name": "The X Factor",
+      "overview": "Released 1995 - EMI Records",
+      "long_description": "The X Factor is the tenth studio album by English heavy metal band Iron Maiden, released on 2 October 1995 through EMI Records.[2] CMC International released the album in North America. It is the first of two albums by the band to include Blaze Bayley, formerly of Wolfsbane, as vocalist, replacing Bruce Dickinson who left the band following their previous tour to pursue a solo career.",
+      "price": 19,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/2/21/Iron_Maiden_-_The_X_Factor.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 2,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10002,
+      "name": "Killers",
+      "overview": "Release Date: 1981 EMI Records ",
+      "long_description": "The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the US by Harvest and Capitol Records, and on 29 March 1982 in the UK by EMI Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.",
+      "price": 35,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Iron_Maiden_Killers.jpg",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": false
+    },
+    {
+      "id": 10009,
+      "name": "Fear of the Dark",
+      "overview": "Release 1992 - EMI Records",
+      "long_description": "Fear of the Dark is the ninth studio album by English heavy metal band Iron Maiden. Released on 11 May 1992, it was their third studio release to top the UK Albums Chart, and the last to feature Bruce Dickinson as the group's lead vocalist until his return in 1999.",
+      "price": 55,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/e/eb/Iron_Maiden_-_Fear_Of_The_Dark.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10007,
+      "name": "Seventh Son of a Seventh Son",
+      "overview": "Released 1988 - Capitol Records",
+      "long_description": "Seventh Son of a Seventh Son is the seventh studio album by English heavy metal band Iron Maiden. It was released on 11 April 1988 in the United Kingdom by EMI Records and in the United States by Capitol Records.",
+      "price": 39,
+      "poster": "https://upload.wikimedia.org/wikipedia/en/c/c0/Iron_Maiden_-_Seventh_Son_Of_A_Seventh_Son.jpg",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "The Number of the Beast",
+          "overview": "Release Date: 1982 - Capitol Records",
+          "long_description": "The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the US by Harvest and Capitol Records, and on 29 March 1982 in the UK by EMI Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.",
+          "price": 45,
+          "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/IronMaiden_NumberOfBeast.jpg",
+          "image_local": "/assets/images/10004.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 7,
+          "best_seller": true
+        },
+        {
+          "id": 10002,
+          "name": "Killers",
+          "overview": "Release Date: 1981 EMI Records ",
+          "long_description": "The Number of the Beast is the third studio album by English heavy metal band Iron Maiden. It was released on 22 March 1982 in the US by Harvest and Capitol Records, and on 29 March 1982 in the UK by EMI Records. The album was their first to feature vocalist Bruce Dickinson and their last with drummer Clive Burr.",
+          "price": 35,
+          "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Iron_Maiden_Killers.jpg",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": false
+        },
+        {
+          "id": 10007,
+          "name": "Seventh Son of a Seventh Son",
+          "overview": "Released 1988 - Capitol Records",
+          "long_description": "Seventh Son of a Seventh Son is the seventh studio album by English heavy metal band Iron Maiden. It was released on 11 April 1988 in the United Kingdom by EMI Records and in the United States by Capitol Records.",
+          "price": 39,
+          "poster": "https://upload.wikimedia.org/wikipedia/en/c/c0/Iron_Maiden_-_Seventh_Son_Of_A_Seventh_Son.jpg",
+          "image_local": "/assets/images/10004.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 7,
+          "best_seller": true
+        },
+        {
+          "id": 10005,
+          "name": "Powerslave",
+          "overview": "Released 1984 - EMI Records",
+          "long_description": "Powerslave is the fifth studio album by the English heavy metal band Iron Maiden, released on 3 September 1984 through EMI Records in Europe and its sister label Capitol Records in North America. It was re-released by Sanctuary and Columbia Records in the United States in 2002.",
+          "price": 59,
+          "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Iron_Maiden_-_Powerslave.jpg",
+          "image_local": "/assets/images/10004.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 7,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 178,
+      "quantity": 4,
+      "user": {
+        "name": "Kevin Neibarger",
+        "email": "kevin@example.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "kevin@example.com",
+      "password": "$2a$10$aJRSdit.jz0u8OnPcKV9hO13C.mcWDuvDzIMUuQsW53VC6vbClU7e",
+      "name": "Kevin Neibarger",
+      "id": 1
+    }
+  ]
+}
