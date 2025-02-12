@@ -8,6 +8,9 @@ server.use((req, res, next) => {
     // Get the token from the request (e.g., from a query parameter or header)
     const token = req.query.token || req.headers['authorization'];
 
+    res.header('Access-Control-Allow-Origin', '*')
+    res.header('Access-Control-Allow-Headers', '*')
+
     if (token) {
         // Add the authorization header to the request
         req.headers['authorization'] = `Bearer ${token}`;
